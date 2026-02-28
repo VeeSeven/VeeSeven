@@ -8,7 +8,7 @@ I focus on building deterministic systems in a non-deterministic world. I lean t
 
 ### 🛠️ MindSpace: Your Infinite Digital Workspace
   
-*Enables complex notes heirarchies (folders in folders / notes in notes) with with an intuitive tagging system that auto‑assigns consistent colors for visual organization.*
+*Enables complex notes hierarchies (folders in folders / notes in notes) with with an intuitive tagging system that auto‑assigns consistent colors for visual organization.*
 
 **Tech Stack**  
 React + Vite | Django REST Framework | PostgreSQL | JWT Authentication | Docker
